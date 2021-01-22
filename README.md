@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/shivam_648" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shivam_648" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivam-jaiswal648" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivam-jaiswal648" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100024776197111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100024776197111" height="30" width="40" /></a>
+<a href="https://fb.com/7563856195" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="7563856195" height="30" width="40" /></a>
 <a href="https://instagram.com/shivamjaiswal1208" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shivamjaiswal1208" height="30" width="40" /></a>
 </p>
 
