@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam648" alt="shivam648" /></a> </p>
 
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"  align="right" width="50%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="left"> <a href="https://twitter.com/shivam_648" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_648?logo=twitter&style=for-the-badge" alt="shivam_648" /></a> </p>
 
 - 📫 How to reach me **shivamjaiswal648@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shivam_648" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shivam_648" height="30" width="40" /></a>
