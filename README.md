@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam648&label=Profile%20views&color=0e75b6&style=flat" alt="shivam648" /> </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=shivam648&theme=juicyfresh"  alt="GitHub Profile Trophy" align="center" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=shivam648&theme=monokai"  alt="GitHub Profile Trophy" align="center" /></a> </p>
 
 - 📫 How to reach me **shivamjaiswal648@gmail.com**
 <h3 align="left">Connect with me:</h3>
