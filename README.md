@@ -23,7 +23,10 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shivam648&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam648&" alt="shivam648" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam648&theme=dark&show-icons=true" alt="GitHub Streak" align="center"/></p>
+
+
+
 
 
 
