@@ -2,8 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam648&label=Profile%20views&color=0e75b6&style=flat" alt="shivam648" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=shivam648&theme=juicyfresh"  alt="GitHub Profile Trophy" align="center" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam648" alt="shivam648https://github-profile-trophy.vercel.app/?username=shivam648&theme=juicyfresh" /></a> </p>
 <p align="left"> <a href="https://twitter.com/shivam_648" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_648?logo=twitter&style=for-the-badge" alt="shivam_648" /></a> </p>
 
 - 📫 How to reach me **shivamjaiswal648@gmail.com**
