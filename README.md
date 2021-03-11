@@ -21,8 +21,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam648&layout=compact&theme=chartreuse-dark&langs_count=6" alt="shivam648" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam648&show_icons=true&locale=en" alt="shivam648" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shivam648&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam648&" alt="shivam648" /></p>
+
+
+
+
+
 
 
